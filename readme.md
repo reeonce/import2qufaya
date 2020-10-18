@@ -21,4 +21,4 @@ make
 
 3. execute the command `./im2qufaya xxx.csv wechat.csv`
 
-4. save wechat.csv.out.csv as wechat.xlsl, then import wechat.xlsl via [https://www.qufaya.com/pushMore](https://www.qufaya.com/pushMore)
+4. save wechat.csv.out.csv as wechat.xlsl, then import wechat.xlsl via [https://www.jizhangapp.com/pushMore](https://www.jizhangapp.com/pushMore)

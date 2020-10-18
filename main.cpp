@@ -22,6 +22,7 @@ int main(int argc, char const *argv[]) {
     auto catMap = loadcategorymap(mappath);
     Qufaya bill(catMap);
     bill.LoadWechatBill(inpath);
+    // bill.LoadAlipayBill(inpath);
     bill.Save(outputpath);
 
     return 0;
